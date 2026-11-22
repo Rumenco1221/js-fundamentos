@@ -1,0 +1,11 @@
+{
+  "name": "js-fundamentos",
+  "version": "1.0.0",
+  "description": "20 ejercicios resueltos de fundamentos de JavaScript con pruebas automáticas",
+  "type": "module",
+  "scripts": {
+    "test": "node --test tests/fundamentos.test.js"
+  },
+  "keywords": ["javascript", "fundamentos", "ejercicios", "principiante"],
+  "license": "MIT"
+}
